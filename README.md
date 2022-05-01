@@ -1,2 +1,29 @@
 # CSstudy
-프로그래밍 및 웹에 대한 공부 모음집입니당
+<img src="https://user-images.githubusercontent.com/62272445/166146917-146ef935-5c7f-4ed8-a93c-9f5af0cceaad.gif" width="380" />
+<br/>
+🗃프로그래밍 및 웹에 대한 공부 모음집입니다
+### HTTP 완벽 가이드
+- [X] 1부 1장 : HTTP 개관
+- [X] 1부 2장 : URL
+- [ ] 1부 3장 : HTTP 메시지
+- [ ] 1부 4장 : 연결
+
+
+### Modern JavaScript with ES6
+#### Part 1
+- [ ] 프로토타입과 상속
+- [ ] Generator
+
+
+#### Part 2
+- [ ] 클래스와 프로토타입
+- [ ] 클래스의 호이스팅
+- [ ] 클래스 표현식 정의
+- [ ] 클래스 사용 방식
+- [ ] getOwnPropertyNames로 메소드 확인하기
+- [ ] 생성자 메소드, 상속
+- [ ] 정적 메소드
+- [ ] Object.create를 사용한 상속 구현
+
+
+
