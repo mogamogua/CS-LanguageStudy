@@ -7,13 +7,16 @@
 ### HTTP 완벽 가이드
 - [X] 1부 1장 : HTTP 개관
 - [X] 1부 2장 : URL
-- [ ] 1부 3장 : HTTP 메시지
+- [X] 1부 3장 : HTTP 메시지
 - [ ] 1부 4장 : 연결
 
 
 ### Modern JavaScript with ES6
 #### Part 1
-- [ ] 프로토타입과 상속
+- [X] ES6 자료구조 - Symbol
+- [X] ES6 자료구조 - Set
+- [X] 프로토타입과 생성자함수
+- [X] 프로토타입 상속과 체이닝
 - [ ] Generator
 
 
